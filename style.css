@@ -12,12 +12,12 @@ body {
 }
 
 .grid2 {
-    margin-left:  80px;
+    margin-left:  50px;
     margin-top: 80px;
  
 }
 .grid1  {
-    margin-top: 20px;
+    margin-top: 80px;
     margin-right:auto 0
     ;
 }
@@ -40,7 +40,6 @@ h1 {
 }
 h2  {
     color: antiquewhite;
-    font-family:'Times New Roman', Times, serif;
 }
 
 h4{
@@ -59,7 +58,8 @@ h4{
         margin: auto;
         height: 300px;
         width: 400px;
-        
     }
-    
+    .grid2 {
+        margin-top: 5px;
+    }
 }
