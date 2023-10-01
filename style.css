@@ -6,12 +6,12 @@
    
 }
 body {
-    background-color: rgb(33, 180, 229);
+    background-color: rgb(19, 81, 101);
     align-items: center;
     
 }
 .bxl {
-    margin-top: 50px;
+    margin-top: 0px;
 }
 .grid2 {
     margin-left:  50px;
@@ -21,6 +21,7 @@ body {
 .grid1  {
     margin-top: 80px;
     margin-right:auto;
+    
 
 }
 .img {
@@ -28,6 +29,9 @@ body {
     border-radius: 5px;
     margin-left: 200px;
     border-color: rgb(20, 55, 181);
+    height: 250px;
+    margin-top: 70px
+    ;
     
 }
 .grid2 {
